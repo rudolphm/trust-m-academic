@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Harare Institute of Technology
+    url: https://www.hit.ac.zw/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -54,3 +54,5 @@ Trust Marongedze enjoys watching cricket, tennis, travelling and research
 Trust wears Spectacles
 
 last date of update:September 2021
+
+ T Marongedze C.V available here [resumé](http://localhost:4554/uploads/demo_resume.pdf).
