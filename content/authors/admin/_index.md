@@ -18,7 +18,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: http://marroneindustries.com/
-  - icon: envelope
+  - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/trustmunyaradzi.marongedze.7
   - icon: linkedin
