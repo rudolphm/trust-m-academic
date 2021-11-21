@@ -14,16 +14,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
+    link: https://twitter.com/DrMarrone1
+  - icon: website
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: http://marroneindustries.com/
+  - icon: Facebook
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.facebook.com/trustmunyaradzi.marongedze.7
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/trust-marongedze-a5913884/
 organizations:
   - name: Harare Institute of Technology
     url: https://www.hit.ac.zw/
