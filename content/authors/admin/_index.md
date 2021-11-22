@@ -15,7 +15,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DrMarrone1
-  - icon: sitemap
+  - icon: phone-laptop
     icon_pack: fas
     link: http://marroneindustries.com/
   - icon: facebook
